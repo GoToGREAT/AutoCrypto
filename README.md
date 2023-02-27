@@ -1,4 +1,4 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>[Python] AUTO_UPBIT</title><style>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 /* cspell:disable-file */
 /* webkit printing magic: print all background colors */
 <header><h1 class="page-title">[Python] AUTO_UPBIT</h1></header><div class="page-body"><p id="e9db425c-e548-476c-aef3-0e2eb7a9200e" class="">
