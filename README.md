@@ -1,6 +1,6 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <header><h1 class="page-title">[Python] AUTO_UPBIT</h1></header><div class="page-body"><p id="e9db425c-e548-476c-aef3-0e2eb7a9200e" class="">
-</p><figure id="2cff5c05-d7a8-4fad-8895-52a02902225c"><div class="source">https://github.com/GoToGREAT/AutoCrypto</div></figure><p id="81f4a69d-cec9-494e-b652-0f27a49012d9" class="">
+</p><figure id="2cff5c05-d7a8-4fad-8895-52a02902225c">
 </p><p id="7c5711ef-0cd4-4d04-b0af-e785c81cf1ff" class="">
 </p><h3 id="d7cb8e37-ffe1-4c66-8f16-544ee93e6670" class="">개발 목표 : 파이썬을 통한 업비트 코인 자동 매매</h3><h3 id="ea0f6e09-1213-4b15-96d7-7e3bde784a55" class="">프로그램 개발기간 : 10.31-</h3><p id="34dbc56f-d278-4ac9-92ef-56ccb1d0d3c8" class=""> - 개인적 사용을 위한 프로젝트 수정 보완은 계속 될 예정입니다.</p><h3 id="3926de53-19af-4c4c-90d2-de52bdc72a46" class="">수행인원 : 1인 프로젝트</h3><h3 id="021619e7-698c-492b-b28a-ebfec909acff" class="">사용 언어</h3><p id="2aa8122a-bc62-449b-80da-ee029900141b" class=""><strong>프로그램</strong></p><p id="e3db640c-0f66-4dc9-b902-49e418cf3d84" class=""><strong> - BACKEND : Python 3.8.9, Visual Studio Code</strong></p><p id="b2243a68-eaa9-4d17-9dd1-2b0b0fa8b36c" class="">
 </p><p id="8b58206c-10b8-48df-a12d-e3ae247c7106" class=""><strong>서버 구축(예정) : AWS + UBUNTU</strong></p><p id="ecad3935-b4bc-4160-b42a-911f905944f0" class="">
