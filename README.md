@@ -1,6 +1,4 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-/* cspell:disable-file */
-/* webkit printing magic: print all background colors */
 <header><h1 class="page-title">[Python] AUTO_UPBIT</h1></header><div class="page-body"><p id="e9db425c-e548-476c-aef3-0e2eb7a9200e" class="">
 </p><figure id="2cff5c05-d7a8-4fad-8895-52a02902225c"><div class="source">https://github.com/GoToGREAT/AutoCrypto</div></figure><p id="81f4a69d-cec9-494e-b652-0f27a49012d9" class="">
 </p><p id="7c5711ef-0cd4-4d04-b0af-e785c81cf1ff" class="">
